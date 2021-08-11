@@ -6,6 +6,8 @@ public class Cricket {
 		String lastname= "Khan";
 
 		String lstname= "Khan";
+wadfjkgb
+asdfg
 
 		
 	}
